@@ -1,0 +1,602 @@
+[
+    {
+        "EPOCH": 1,
+        "training loss": 2036.07911,
+        "validation loss": 500.95061,
+        "accuracy": 0.01601
+    },
+    {
+        "EPOCH": 2,
+        "training loss": 1938.40928,
+        "validation loss": 476.82645,
+        "accuracy": 0.02299
+    },
+    {
+        "EPOCH": 3,
+        "training loss": 1849.4101,
+        "validation loss": 460.55884,
+        "accuracy": 0.0342
+    },
+    {
+        "EPOCH": 4,
+        "training loss": 1756.3969,
+        "validation loss": 455.16561,
+        "accuracy": 0.03414
+    },
+    {
+        "EPOCH": 5,
+        "training loss": 1665.82281,
+        "validation loss": 450.43712,
+        "accuracy": 0.03725
+    },
+    {
+        "EPOCH": 6,
+        "training loss": 1567.34106,
+        "validation loss": 454.29037,
+        "accuracy": 0.03676
+    },
+    {
+        "EPOCH": 7,
+        "training loss": 1462.90499,
+        "validation loss": 472.66003,
+        "accuracy": 0.04
+    },
+    {
+        "EPOCH": 8,
+        "training loss": 1367.56626,
+        "validation loss": 485.5822,
+        "accuracy": 0.03844
+    },
+    {
+        "EPOCH": 9,
+        "training loss": 1294.13621,
+        "validation loss": 500.78213,
+        "accuracy": 0.03925
+    },
+    {
+        "EPOCH": 10,
+        "training loss": 1232.19845,
+        "validation loss": 518.63333,
+        "accuracy": 0.03875
+    },
+    {
+        "EPOCH": 11,
+        "training loss": 1183.96393,
+        "validation loss": 531.05793,
+        "accuracy": 0.03694
+    },
+    {
+        "EPOCH": 12,
+        "training loss": 1146.18631,
+        "validation loss": 554.64069,
+        "accuracy": 0.038
+    },
+    {
+        "EPOCH": 13,
+        "training loss": 1118.29033,
+        "validation loss": 548.51468,
+        "accuracy": 0.03825
+    },
+    {
+        "EPOCH": 14,
+        "training loss": 1094.61093,
+        "validation loss": 566.49906,
+        "accuracy": 0.03925
+    },
+    {
+        "EPOCH": 15,
+        "training loss": 1078.86597,
+        "validation loss": 572.47075,
+        "accuracy": 0.03844
+    },
+    {
+        "EPOCH": 16,
+        "training loss": 1060.77184,
+        "validation loss": 579.6192,
+        "accuracy": 0.03856
+    },
+    {
+        "EPOCH": 17,
+        "training loss": 1049.88715,
+        "validation loss": 582.05572,
+        "accuracy": 0.03931
+    },
+    {
+        "EPOCH": 18,
+        "training loss": 1039.95968,
+        "validation loss": 583.90367,
+        "accuracy": 0.03825
+    },
+    {
+        "EPOCH": 19,
+        "training loss": 1030.66098,
+        "validation loss": 581.90795,
+        "accuracy": 0.03975
+    },
+    {
+        "EPOCH": 20,
+        "training loss": 1022.30595,
+        "validation loss": 581.64172,
+        "accuracy": 0.03856
+    },
+    {
+        "EPOCH": 21,
+        "training loss": 1017.41378,
+        "validation loss": 590.57318,
+        "accuracy": 0.03644
+    },
+    {
+        "EPOCH": 22,
+        "training loss": 1013.15424,
+        "validation loss": 584.90326,
+        "accuracy": 0.03825
+    },
+    {
+        "EPOCH": 23,
+        "training loss": 1010.49973,
+        "validation loss": 579.65246,
+        "accuracy": 0.03669
+    },
+    {
+        "EPOCH": 24,
+        "training loss": 1004.35434,
+        "validation loss": 592.72876,
+        "accuracy": 0.0385
+    },
+    {
+        "EPOCH": 25,
+        "training loss": 998.44449,
+        "validation loss": 580.44221,
+        "accuracy": 0.03975
+    },
+    {
+        "EPOCH": 26,
+        "training loss": 995.56351,
+        "validation loss": 584.68719,
+        "accuracy": 0.03495
+    },
+    {
+        "EPOCH": 27,
+        "training loss": 992.6133,
+        "validation loss": 598.06785,
+        "accuracy": 0.03682
+    },
+    {
+        "EPOCH": 28,
+        "training loss": 991.13599,
+        "validation loss": 591.41818,
+        "accuracy": 0.03644
+    },
+    {
+        "EPOCH": 29,
+        "training loss": 987.06088,
+        "validation loss": 604.14257,
+        "accuracy": 0.03825
+    },
+    {
+        "EPOCH": 30,
+        "training loss": 983.27713,
+        "validation loss": 594.86266,
+        "accuracy": 0.03613
+    },
+    {
+        "EPOCH": 31,
+        "training loss": 979.80028,
+        "validation loss": 602.42127,
+        "accuracy": 0.03601
+    },
+    {
+        "EPOCH": 32,
+        "training loss": 978.52366,
+        "validation loss": 598.00712,
+        "accuracy": 0.03694
+    },
+    {
+        "EPOCH": 33,
+        "training loss": 976.16324,
+        "validation loss": 594.39471,
+        "accuracy": 0.03713
+    },
+    {
+        "EPOCH": 34,
+        "training loss": 973.50832,
+        "validation loss": 589.38648,
+        "accuracy": 0.03806
+    },
+    {
+        "EPOCH": 35,
+        "training loss": 973.70649,
+        "validation loss": 600.124,
+        "accuracy": 0.03514
+    },
+    {
+        "EPOCH": 36,
+        "training loss": 972.24752,
+        "validation loss": 596.9179,
+        "accuracy": 0.0375
+    },
+    {
+        "EPOCH": 37,
+        "training loss": 969.09628,
+        "validation loss": 602.2792,
+        "accuracy": 0.03638
+    },
+    {
+        "EPOCH": 38,
+        "training loss": 967.64702,
+        "validation loss": 614.47917,
+        "accuracy": 0.03694
+    },
+    {
+        "EPOCH": 39,
+        "training loss": 966.32498,
+        "validation loss": 598.25003,
+        "accuracy": 0.03545
+    },
+    {
+        "EPOCH": 40,
+        "training loss": 963.01765,
+        "validation loss": 615.84046,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 41,
+        "training loss": 962.42711,
+        "validation loss": 612.8836,
+        "accuracy": 0.03707
+    },
+    {
+        "EPOCH": 42,
+        "training loss": 962.00378,
+        "validation loss": 604.83025,
+        "accuracy": 0.03757
+    },
+    {
+        "EPOCH": 43,
+        "training loss": 960.40235,
+        "validation loss": 611.24918,
+        "accuracy": 0.03676
+    },
+    {
+        "EPOCH": 44,
+        "training loss": 959.65176,
+        "validation loss": 612.27135,
+        "accuracy": 0.03819
+    },
+    {
+        "EPOCH": 45,
+        "training loss": 958.14716,
+        "validation loss": 619.59919,
+        "accuracy": 0.03732
+    },
+    {
+        "EPOCH": 46,
+        "training loss": 957.06159,
+        "validation loss": 620.90327,
+        "accuracy": 0.03638
+    },
+    {
+        "EPOCH": 47,
+        "training loss": 955.82556,
+        "validation loss": 621.29316,
+        "accuracy": 0.03869
+    },
+    {
+        "EPOCH": 48,
+        "training loss": 954.16649,
+        "validation loss": 628.01544,
+        "accuracy": 0.03669
+    },
+    {
+        "EPOCH": 49,
+        "training loss": 954.38672,
+        "validation loss": 622.89779,
+        "accuracy": 0.037
+    },
+    {
+        "EPOCH": 50,
+        "training loss": 953.85548,
+        "validation loss": 623.45842,
+        "accuracy": 0.03844
+    },
+    {
+        "EPOCH": 51,
+        "training loss": 951.78643,
+        "validation loss": 630.46898,
+        "accuracy": 0.03744
+    },
+    {
+        "EPOCH": 52,
+        "training loss": 951.51334,
+        "validation loss": 637.5542,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 53,
+        "training loss": 950.43307,
+        "validation loss": 623.77236,
+        "accuracy": 0.03663
+    },
+    {
+        "EPOCH": 54,
+        "training loss": 948.73671,
+        "validation loss": 647.81319,
+        "accuracy": 0.03725
+    },
+    {
+        "EPOCH": 55,
+        "training loss": 948.16144,
+        "validation loss": 640.93521,
+        "accuracy": 0.03613
+    },
+    {
+        "EPOCH": 56,
+        "training loss": 948.36585,
+        "validation loss": 639.14814,
+        "accuracy": 0.03638
+    },
+    {
+        "EPOCH": 57,
+        "training loss": 948.10928,
+        "validation loss": 650.80417,
+        "accuracy": 0.03651
+    },
+    {
+        "EPOCH": 58,
+        "training loss": 947.49967,
+        "validation loss": 656.90087,
+        "accuracy": 0.03838
+    },
+    {
+        "EPOCH": 59,
+        "training loss": 945.65697,
+        "validation loss": 659.98736,
+        "accuracy": 0.03738
+    },
+    {
+        "EPOCH": 60,
+        "training loss": 944.79651,
+        "validation loss": 670.2913,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 61,
+        "training loss": 945.3421,
+        "validation loss": 657.12627,
+        "accuracy": 0.03838
+    },
+    {
+        "EPOCH": 62,
+        "training loss": 944.55869,
+        "validation loss": 673.34775,
+        "accuracy": 0.03669
+    },
+    {
+        "EPOCH": 63,
+        "training loss": 943.59264,
+        "validation loss": 666.53447,
+        "accuracy": 0.03632
+    },
+    {
+        "EPOCH": 64,
+        "training loss": 943.21875,
+        "validation loss": 688.13334,
+        "accuracy": 0.03638
+    },
+    {
+        "EPOCH": 65,
+        "training loss": 942.47957,
+        "validation loss": 676.31447,
+        "accuracy": 0.03545
+    },
+    {
+        "EPOCH": 66,
+        "training loss": 941.72881,
+        "validation loss": 681.30457,
+        "accuracy": 0.03732
+    },
+    {
+        "EPOCH": 67,
+        "training loss": 941.59377,
+        "validation loss": 685.78552,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 68,
+        "training loss": 941.63745,
+        "validation loss": 706.43419,
+        "accuracy": 0.03707
+    },
+    {
+        "EPOCH": 69,
+        "training loss": 940.12914,
+        "validation loss": 698.47565,
+        "accuracy": 0.03806
+    },
+    {
+        "EPOCH": 70,
+        "training loss": 939.41621,
+        "validation loss": 718.96883,
+        "accuracy": 0.037
+    },
+    {
+        "EPOCH": 71,
+        "training loss": 939.99083,
+        "validation loss": 715.72516,
+        "accuracy": 0.037
+    },
+    {
+        "EPOCH": 72,
+        "training loss": 939.10315,
+        "validation loss": 717.78231,
+        "accuracy": 0.03676
+    },
+    {
+        "EPOCH": 73,
+        "training loss": 938.35884,
+        "validation loss": 728.17754,
+        "accuracy": 0.03532
+    },
+    {
+        "EPOCH": 74,
+        "training loss": 937.58749,
+        "validation loss": 728.11617,
+        "accuracy": 0.03707
+    },
+    {
+        "EPOCH": 75,
+        "training loss": 938.00828,
+        "validation loss": 747.78575,
+        "accuracy": 0.03781
+    },
+    {
+        "EPOCH": 76,
+        "training loss": 937.31636,
+        "validation loss": 743.015,
+        "accuracy": 0.03601
+    },
+    {
+        "EPOCH": 77,
+        "training loss": 937.16253,
+        "validation loss": 747.81941,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 78,
+        "training loss": 936.83312,
+        "validation loss": 761.54567,
+        "accuracy": 0.03638
+    },
+    {
+        "EPOCH": 79,
+        "training loss": 936.52428,
+        "validation loss": 771.26308,
+        "accuracy": 0.03464
+    },
+    {
+        "EPOCH": 80,
+        "training loss": 936.05973,
+        "validation loss": 785.05767,
+        "accuracy": 0.03694
+    },
+    {
+        "EPOCH": 81,
+        "training loss": 935.82484,
+        "validation loss": 786.4119,
+        "accuracy": 0.03744
+    },
+    {
+        "EPOCH": 82,
+        "training loss": 934.6014,
+        "validation loss": 797.56708,
+        "accuracy": 0.03694
+    },
+    {
+        "EPOCH": 83,
+        "training loss": 934.71138,
+        "validation loss": 807.84513,
+        "accuracy": 0.03856
+    },
+    {
+        "EPOCH": 84,
+        "training loss": 934.05465,
+        "validation loss": 809.29577,
+        "accuracy": 0.03838
+    },
+    {
+        "EPOCH": 85,
+        "training loss": 933.78089,
+        "validation loss": 824.5258,
+        "accuracy": 0.03582
+    },
+    {
+        "EPOCH": 86,
+        "training loss": 933.86026,
+        "validation loss": 853.77707,
+        "accuracy": 0.03682
+    },
+    {
+        "EPOCH": 87,
+        "training loss": 933.64204,
+        "validation loss": 861.9409,
+        "accuracy": 0.03775
+    },
+    {
+        "EPOCH": 88,
+        "training loss": 932.96692,
+        "validation loss": 864.37516,
+        "accuracy": 0.03738
+    },
+    {
+        "EPOCH": 89,
+        "training loss": 932.91572,
+        "validation loss": 883.41343,
+        "accuracy": 0.03663
+    },
+    {
+        "EPOCH": 90,
+        "training loss": 932.53716,
+        "validation loss": 896.13832,
+        "accuracy": 0.03588
+    },
+    {
+        "EPOCH": 91,
+        "training loss": 932.00501,
+        "validation loss": 924.52383,
+        "accuracy": 0.03526
+    },
+    {
+        "EPOCH": 92,
+        "training loss": 931.59006,
+        "validation loss": 936.60482,
+        "accuracy": 0.03619
+    },
+    {
+        "EPOCH": 93,
+        "training loss": 932.01417,
+        "validation loss": 965.20526,
+        "accuracy": 0.03576
+    },
+    {
+        "EPOCH": 94,
+        "training loss": 931.92788,
+        "validation loss": 979.02965,
+        "accuracy": 0.03626
+    },
+    {
+        "EPOCH": 95,
+        "training loss": 931.22447,
+        "validation loss": 991.47145,
+        "accuracy": 0.03775
+    },
+    {
+        "EPOCH": 96,
+        "training loss": 930.69808,
+        "validation loss": 1012.64664,
+        "accuracy": 0.03495
+    },
+    {
+        "EPOCH": 97,
+        "training loss": 931.00248,
+        "validation loss": 1028.26906,
+        "accuracy": 0.03538
+    },
+    {
+        "EPOCH": 98,
+        "training loss": 930.80486,
+        "validation loss": 1042.29824,
+        "accuracy": 0.03545
+    },
+    {
+        "EPOCH": 99,
+        "training loss": 930.69146,
+        "validation loss": 1046.6383,
+        "accuracy": 0.037
+    },
+    {
+        "EPOCH": 100,
+        "training loss": 930.6968,
+        "validation loss": 1053.28282,
+        "accuracy": 0.03632
+    }
+]
