@@ -23,6 +23,7 @@ Sketch AI는 자아 인식을 향상시키고, 이미지 수정을 지원하는 
 ## 예시
 ![image](https://github.com/gyuri2020/SketchAI/assets/66810905/9c91ab51-bc99-4418-8ffa-a8fe00b9e682)
 ![image](https://github.com/gyuri2020/SketchAI/assets/66810905/6ea00902-c978-4634-97f1-85b305282e0f)
+![image](https://github.com/gyuri2020/SketchAI/assets/66810905/ff74eafb-0265-41b8-bc40-ef87fbc3e83b)
 ![image](https://github.com/gyuri2020/SketchAI/assets/66810905/39a886d8-5cf0-4af1-b97a-a560de31014b)
 ![image](https://github.com/gyuri2020/SketchAI/assets/66810905/0d12dc4f-5f1d-44bd-83f8-211b92828df9)
 
