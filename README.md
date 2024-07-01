@@ -21,8 +21,11 @@ Sketch AI는 자아 인식을 향상시키고, 이미지 수정을 지원하는 
 사용자는 웹사이트에 접속하여 자신의 사진을 업로드하거나, 원하는 이미지 스타일을 입력하는 간단한 절차를 통해 서비스를 이용할 수 있습니다.
 
 ## 예시
-![image](https://github.com/gyuri2020/SketchAI/assets/66810905/57f085be-2b5d-4ec8-b9c5-fdb9b8562ff1)
-![image](https://github.com/gyuri2020/SketchAI/assets/66810905/1c1ab34e-6750-4367-804a-fc829e05ab3b)
+![image](https://github.com/gyuri2020/SketchAI/assets/66810905/9c91ab51-bc99-4418-8ffa-a8fe00b9e682)
+![image](https://github.com/gyuri2020/SketchAI/assets/66810905/6ea00902-c978-4634-97f1-85b305282e0f)
+![image](https://github.com/gyuri2020/SketchAI/assets/66810905/39a886d8-5cf0-4af1-b97a-a560de31014b)
+![image](https://github.com/gyuri2020/SketchAI/assets/66810905/0d12dc4f-5f1d-44bd-83f8-211b92828df9)
+
 
 
 ## 개발 예정
